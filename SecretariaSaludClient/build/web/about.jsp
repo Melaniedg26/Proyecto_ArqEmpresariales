@@ -36,26 +36,10 @@
         </ul>
         <h2>Equipo de Desarrollo</h2>
         <ul>
-            <li>Abraham Eduardo Quintana García - Administrador de proyecto</li>
-            <li>Cristian Eduardo Arreola Valenzuela - Gerente de desarrollo</li>
-            <li>Alexa María Soto Esquer - Gerente de pruebas</li>
+            <li>Melanie Villarreal Madero</li>
+            <li>Inés Michelle Bojórquez Sterling</li>
+            <li>Rosalía Pérez Acuña</li>
+            <li>Jonatan Daniel Oros Cortez</li>
         </ul>
-        <h2>Información de Contacto</h2>
-        <div class="contacto">
-            <h3>Abraham Eduardo Quintana García</h3>
-            <p>Correo electrónico: abraham.quintana233514@potros.itson.edu.mx</p>
-            <p>Teléfono: 6471266682</p>
-        </div>
-        <div class="contacto">
-            <h3>Cristian Eduardo Arreola Valenzuela</h3>
-            <p>Correo electrónico: cristian.arreola233140@potros.itson.edu.mx</p>
-            <p>Teléfono: +1234567890</p>
-        </div>
-        <div class="contacto">
-            <h3>Alexa María Soto Esquer</h3>
-            <p>Correo electrónico: alexa.soto236348@potros.itson.edu.mx</p>
-            <p>Teléfono: +1234567890</p>
-        </div>
-    </div>
 </body>
 </html>
